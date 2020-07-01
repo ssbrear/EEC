@@ -1,0 +1,30 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+}
+
+body {
+    margin: 0;
+    background-color: rgb(223, 221, 211);
+}
+
+header {
+    text-align: center;
+    font-size: 32px;
+
+    color: #efeee7;
+    background-color: rgb(75, 74, 74);
+    
+    padding-top: 1px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 200px;
+}
+
+article {
+    text-indent: 50px;
+    width: 80%;
+    margin: auto;
+}
